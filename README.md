@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Acika12 Junior iOS developer who learns and helps other developers 😀
-- 👀 I’m interested in Anything to do with finding security holes in systems ✌️
+- 👀 I’m interested for everything related to ios
 - 🌱 I’m currently learning iOS, Swift..
 - 💞️ I’m looking to collaborate on any ios project on which I will learn as much as possible
 - 📫 How to reach me➡️ agavric20@gmail.com
